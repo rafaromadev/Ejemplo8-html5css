@@ -1,0 +1,14 @@
+h1,
+h2,
+h3,
+h5,
+h6 {
+  color: slategrey;
+  text-align: center;
+  font-weight: bold;
+}
+#p2 {
+  background-color: orange;
+  font-size: xx-large;
+  font-style: oblique;
+}
